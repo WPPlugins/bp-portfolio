@@ -1,0 +1,541 @@
+# Copyright (C) 2016
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2016-06-19 19:59:12+00:00\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: bp-portfolio.php:79
+msgid "Couldn't load main class at:<br/>%s"
+msgstr ""
+
+#: bp-portfolio.php:85
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr ""
+
+#: includes/admin/main.php:4
+msgid "BP Portfolio PRO"
+msgstr ""
+
+#: includes/admin/main.php:6
+msgid "BP Portfolio"
+msgstr ""
+
+#: includes/admin/views/pages.php:7
+msgid "Portfolio Pages"
+msgstr ""
+
+#: includes/admin/views/pages.php:8
+msgid "Associate a WordPress Page with each Portfolio component."
+msgstr ""
+
+#: includes/admin/views/pages.php:21 includes/bpcp-component.php:199
+#: includes/bpcp-component.php:201 includes/bpcp-functions.php:40
+#: templates/project/index.php:11
+msgid "Projects"
+msgstr ""
+
+#: includes/admin/views/pages.php:27 includes/admin/views/pages.php:46
+msgid "- None -"
+msgstr ""
+
+#: includes/admin/views/pages.php:31 includes/admin/views/pages.php:50
+msgid "New Page"
+msgstr ""
+
+#: includes/admin/views/pages.php:34 includes/admin/views/pages.php:53
+msgid "View"
+msgstr ""
+
+#: includes/admin/views/pages.php:37
+msgid ""
+"Use a WordPress page to display all Projects uploaded by all users. "
+"(Optional)"
+msgstr ""
+
+#: includes/admin/views/pages.php:40 includes/bpcp-item-functions.php:290
+#: templates/project/index.php:21
+msgid "Add Project"
+msgstr ""
+
+#: includes/admin/views/pages.php:56
+msgid ""
+"Use a WordPress page to display Add Project form. (Optional)<br /> If not "
+"selected, Add Project form will be displayed at <code>/members/username/"
+"portfolio</code>."
+msgstr ""
+
+#: includes/admin/views/pages.php:64 includes/admin/views/settings.php:138
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/views/settings.php:32
+msgid "Components"
+msgstr ""
+
+#: includes/admin/views/settings.php:45
+msgid ""
+"<b>Projects</b> &mdash; Let users create Projects to showcase their photos "
+"and artwork"
+msgstr ""
+
+#: includes/admin/views/settings.php:47
+msgid ""
+"<b>Projects</b> &mdash; Let users create Projects to showcase their photos, "
+"artwork, audio and videos"
+msgstr ""
+
+#: includes/admin/views/settings.php:63
+msgid ""
+"<b>Advanced Projects</b> &mdash; Let users add audio and videos to their "
+"Projects"
+msgstr ""
+
+#: includes/admin/views/settings.php:63 includes/admin/views/settings.php:74
+#: includes/admin/views/settings.php:85
+msgid "PRO version"
+msgstr ""
+
+#: includes/admin/views/settings.php:74
+msgid ""
+"<b>Works In Progress</b> &mdash; Let users share and discuss revisions on "
+"incomplete work"
+msgstr ""
+
+#: includes/admin/views/settings.php:85
+msgid ""
+"<b>Collections</b> &mdash; Let users share collections of their favorite "
+"Projects from the site"
+msgstr ""
+
+#: includes/admin/views/settings.php:96 includes/bpcp-functions.php:413
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/views/settings.php:97
+msgid ""
+"You need to create at least one category in backend before they will display "
+"on frontend."
+msgstr ""
+
+#: includes/admin/views/settings.php:102
+msgid "Project Category"
+msgstr ""
+
+#: includes/admin/views/settings.php:109
+msgid ""
+"<strong>Required</strong> &ndash; Category must be added when creating a "
+"Project"
+msgstr ""
+
+#: includes/admin/views/settings.php:111
+msgid "Project category label = "
+msgstr ""
+
+#: includes/admin/views/settings.php:117
+msgid "WIP Category"
+msgstr ""
+
+#: includes/admin/views/settings.php:124
+msgid ""
+"<strong>Required</strong> &ndash; Category must be added when creating a WIP"
+msgstr ""
+
+#: includes/admin/views/settings.php:126
+msgid "WIP category label = "
+msgstr ""
+
+#: includes/admin.php:185
+msgid "Visibility"
+msgstr ""
+
+#: includes/admin.php:189 templates/project/project_settings.php:28
+msgid "Everyone"
+msgstr ""
+
+#: includes/admin.php:190 templates/project/project_settings.php:29
+msgid "Only Me"
+msgstr ""
+
+#: includes/admin.php:191 templates/project/project_settings.php:30
+msgid "All Members"
+msgstr ""
+
+#: includes/admin.php:214
+msgid "Status"
+msgstr ""
+
+#: includes/admin.php:218
+msgid "Uncompleted"
+msgstr ""
+
+#: includes/admin.php:219
+msgid "Completed"
+msgstr ""
+
+#: includes/admin.php:275 includes/admin.php:303
+#: includes/bpcp-item-functions.php:99
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:304
+msgid "Pages"
+msgstr ""
+
+#: includes/admin.php:305
+msgid "Support"
+msgstr ""
+
+#: includes/bpcp-component.php:200 includes/bpcp-component.php:203
+#: includes/bpcp-component.php:215
+msgid "Project"
+msgstr ""
+
+#: includes/bpcp-component.php:202
+msgid "All Projects"
+msgstr ""
+
+#: includes/bpcp-component.php:204 includes/bpcp-component.php:205
+msgid "Add New Project"
+msgstr ""
+
+#: includes/bpcp-component.php:206 includes/bpcp-item-functions.php:288
+#: templates/single-bb_project.php:16
+msgid "Edit Project"
+msgstr ""
+
+#: includes/bpcp-component.php:207
+msgid "New Project"
+msgstr ""
+
+#: includes/bpcp-component.php:208
+msgid "View Project"
+msgstr ""
+
+#: includes/bpcp-component.php:209
+msgid "Search Projects"
+msgstr ""
+
+#: includes/bpcp-component.php:210
+msgid "No Projects Found"
+msgstr ""
+
+#: includes/bpcp-component.php:211
+msgid "No Projects Found in Trash"
+msgstr ""
+
+#: includes/bpcp-component.php:238 templates/project/add_project.php:32
+msgid "Tags"
+msgstr ""
+
+#: includes/bpcp-component.php:239
+msgid "Tag"
+msgstr ""
+
+#: includes/bpcp-component.php:283
+msgid ""
+"For <strong>Works in Progress</strong> and <strong>Collections</strong>, "
+"purchase the Pro version at <a href=\"http://www.buddyboss.com/plugins/"
+"\">BuddyBoss.com</a>."
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:44 templates/project/project_cover.php:29
+msgid "Library"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:90
+msgid "You have not uploaded any photos yet"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:109
+msgid "Photo"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:205
+msgid "Drop file anywhere to upload"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:209
+msgid "or select file"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:226
+msgid "Please select the file to upload."
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:280 includes/bpcp-file-dialog.php:318
+msgid "You must be logged in to add content."
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:303 includes/bpcp-file-dialog.php:403
+msgid "Remove"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:335
+msgid "File you have uploaded is corrupt try another file."
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:359
+msgid "Image must be at least %1$sx%2$s"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:374
+msgid "jpg, jpeg, jpe, png, gif"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:376
+msgid "mp3, m4a, m4b, ra, ram, ogg, oga, mid, midi, wav, wma, wax, mka"
+msgstr ""
+
+#: includes/bpcp-file-dialog.php:378
+msgid ""
+"%s has failed to upload due to an error. Sorry, this file type is not "
+"permitted. Please upload one of the following file types: %s."
+msgstr ""
+
+#: includes/bpcp-functions.php:7
+msgid "portfolio"
+msgstr ""
+
+#: includes/bpcp-functions.php:15
+msgid "Portfolio"
+msgstr ""
+
+#: includes/bpcp-functions.php:48
+msgid "projects"
+msgstr ""
+
+#: includes/bpcp-functions.php:131
+msgid "Default Image"
+msgstr ""
+
+#: includes/bpcp-functions.php:293
+msgid "&larr;"
+msgstr ""
+
+#: includes/bpcp-functions.php:294
+msgid "&rarr;"
+msgstr ""
+
+#: includes/bpcp-functions.php:347
+msgid "Category"
+msgstr ""
+
+#: includes/bpcp-functions.php:360
+msgid "All Time"
+msgstr ""
+
+#: includes/bpcp-functions.php:361
+msgid "This Past Year"
+msgstr ""
+
+#: includes/bpcp-functions.php:362
+msgid "This past month"
+msgstr ""
+
+#: includes/bpcp-functions.php:363
+msgid "This past week"
+msgstr ""
+
+#: includes/bpcp-functions.php:364
+msgid "Today"
+msgstr ""
+
+#: includes/bpcp-functions.php:439
+msgid "Recent"
+msgstr ""
+
+#: includes/bpcp-functions.php:440
+msgid "Most Commented"
+msgstr ""
+
+#: includes/bpcp-functions.php:509 templates/project/index.php:52
+msgid "by"
+msgstr ""
+
+#: includes/bpcp-item-actions.php:18
+msgid "Project deleted successfully"
+msgstr ""
+
+#: includes/bpcp-item-actions.php:99 includes/bpcp-item-actions.php:134
+#: includes/bpcp-item-actions.php:160 includes/bpcp-item-actions.php:224
+msgid "Some error happen while creating post. Please try again."
+msgstr ""
+
+#: includes/bpcp-item-actions.php:103
+msgid "Please insert project title"
+msgstr ""
+
+#: includes/bpcp-item-actions.php:206
+msgid "%s posted a new project, %s"
+msgstr ""
+
+#: includes/bpcp-item-functions.php:96
+msgid "Details"
+msgstr ""
+
+#: includes/bpcp-item-functions.php:97
+msgid "Content"
+msgstr ""
+
+#: includes/bpcp-item-functions.php:98
+msgid "Cover"
+msgstr ""
+
+#: includes/bpcp-item-template.php:50
+msgid "Discuss this Project"
+msgstr ""
+
+#: includes/help-support.php:5
+msgid "Here is a video tutorial to get you started:"
+msgstr ""
+
+#: includes/main-class.php:178 includes/main-class.php:187
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/main-class.php:552
+msgid "Choose..."
+msgstr ""
+
+#: includes/main-class.php:553
+msgid "Project title is missing"
+msgstr ""
+
+#: includes/main-class.php:554
+msgid "Project content is missing"
+msgstr ""
+
+#: includes/main-class.php:556
+msgid "%s is missing"
+msgstr ""
+
+#: includes/main-class.php:557
+msgid "Please set a visibility"
+msgstr ""
+
+#: includes/main-class.php:558
+msgid "Image Upload"
+msgstr ""
+
+#: includes/main-class.php:559
+msgid "Use this Image"
+msgstr ""
+
+#: includes/main-class.php:560 templates/project/project_content.php:28
+msgid "Delete"
+msgstr ""
+
+#: includes/main-class.php:561 templates/project/project_content.php:40
+msgid "Upload Another Image"
+msgstr ""
+
+#: templates/project/add_project.php:22
+msgid "Title (required)"
+msgstr ""
+
+#: templates/project/add_project.php:27
+msgid "Description"
+msgstr ""
+
+#: templates/project/add_project.php:66
+msgid "Update Project"
+msgstr ""
+
+#: templates/project/add_project.php:66
+msgid "Add Project and Continue"
+msgstr ""
+
+#: templates/project/index.php:63
+msgid "You have not added a project yet."
+msgstr ""
+
+#: templates/project/index.php:64
+msgid "Add a project"
+msgstr ""
+
+#: templates/project/index.php:67
+msgid "Sorry, there were no projects found."
+msgstr ""
+
+#: templates/project/project_content.php:40
+msgid "Upload image"
+msgstr ""
+
+#: templates/project/project_content.php:48
+#: templates/project/project_cover.php:37
+#: templates/project/project_settings.php:60
+msgid "Back to Previous Step"
+msgstr ""
+
+#: templates/project/project_content.php:49
+#: templates/project/project_cover.php:38
+#: templates/project/project_settings.php:61
+msgid "&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: templates/project/project_content.php:51
+#: templates/project/project_cover.php:39
+msgid "Next Step"
+msgstr ""
+
+#: templates/project/project_cover.php:27
+msgid ""
+"Upload an image to use as a cover photo for this project.<br/> The image "
+"will be shown on the main project page, and in search results."
+msgstr ""
+
+#: templates/project/project_cover.php:30
+msgid "Upload Image"
+msgstr ""
+
+#: templates/project/project_settings.php:24
+msgid "Visibility (required)"
+msgstr ""
+
+#: templates/project/project_settings.php:48
+msgid "Password"
+msgstr ""
+
+#: templates/project/project_settings.php:55
+msgid "Discussion"
+msgstr ""
+
+#: templates/project/project_settings.php:56
+msgid "Allow Comments"
+msgstr ""
+
+#: templates/project/project_settings.php:62
+msgid "Finish"
+msgstr ""
+
+#: templates/single-bb_project.php:17
+msgid "Delete Project"
+msgstr ""
+
+#: templates/single-bb_project.php:61
+msgid "Project by"
+msgstr ""
+
+#: templates/single-bb_project.php:82
+msgid "Project Tags"
+msgstr ""
